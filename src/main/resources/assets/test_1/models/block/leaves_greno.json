@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "test_1:blocks/leaves_greno"
+    }
+}

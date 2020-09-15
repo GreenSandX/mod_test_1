@@ -1,0 +1,17 @@
+{
+    "type":"minecraft:crafting_shapeless",
+    "result":{
+        "item":"test_1:greno_ingot_clay_wrapped"
+    },
+    "ingredients":[
+        {
+            "item":"test_1:greno_ingot"
+        },
+        {
+            "item":"minecraft:clay_ball"
+        },
+                {
+            "item":"minecraft:clay_ball"
+        }
+    ]
+}

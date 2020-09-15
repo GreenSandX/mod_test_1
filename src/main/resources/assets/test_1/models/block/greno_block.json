@@ -1,0 +1,6 @@
+{
+    "parent":"block/cube_all",
+    "textures":{
+        "all":"test_1:blocks/greno_block"
+    }
+}

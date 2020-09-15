@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "test_1:blocks/sapling_greno"
+    }
+}

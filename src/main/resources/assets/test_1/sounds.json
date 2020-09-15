@@ -1,0 +1,8 @@
+{
+    "player.bo":
+    {
+        "category":"player",
+        "subtitle":"player.bo",
+        "sounds": [{"name": "test_1:player/bo","stream":true}]
+    }
+}

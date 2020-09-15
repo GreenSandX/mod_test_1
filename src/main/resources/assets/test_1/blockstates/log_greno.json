@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "test_1:log_greno" },
+        "axis=z":   { "model": "test_1:log_greno", "x": 90 },
+        "axis=x":   { "model": "test_1:log_greno", "x": 90, "y": 90 },
+        "axis=none": { "model": "test_1:bark_greno" }
+    }
+}

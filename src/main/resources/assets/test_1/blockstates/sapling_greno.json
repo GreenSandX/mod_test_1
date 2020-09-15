@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0": { "model": "test_1:sapling_greno" },
+        "stage=1": { "model": "test_1:sapling_greno" }
+    }
+}
